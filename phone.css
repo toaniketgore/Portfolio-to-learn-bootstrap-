@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+@media (max-width:992px) {
+
+    /*when screen width gets 0px to 985px box display will visible*/
+    nav ul li a {
+        display: block;
+        text-align: center;
+    }
+}
